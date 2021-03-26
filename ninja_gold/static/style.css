@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    min-height: 600px;
+    margin: 0 auto;
+    padding-top: 20px;
+    display: block;
+    /* text-align: center; */
+}
+
+.gold_count_container{
+    margin: 10px 0px 10px 10px;
+    display: inline-block;
+}
+
+.goldcount{
+    padding-left: 5px;
+    height: 30px;
+    width: 100px;
+    margin: 10px 0px 10px 10px;
+    display: inline-block;
+    border: solid 2px black;
+}
+.places_selection_container {
+    text-align: center;
+}
+.places {
+    width: 300px;
+    height: 300px;
+    border: solid 3px black;
+    margin: 10px 10px 0 0;
+    display: inline-block;
+}
+
+div.activity-log {
+    border: solid 3px black;
+    height: 200px;
+    overflow: auto;
+}
+
+body > div > p {
+    margin: 20px 0px 5px 0px;
+}
+.btn-submit-form-hidden {
+    position: relative;
+    top: 150px;
+}
+.greentext{
+    color: green;
+}
+.redtext{
+    color: red;
+}
+.bluetext{
+    color: blue;
+}
+
+.orangetext{
+    color: orange;
+}
+
+.purpletext {
+    color: purple;
+}
+
+.rst-ninja-gold {
+    margin-top: 10px;
+}
