@@ -1,4 +1,4 @@
-# Python (Flask)
+# Flask Fundamentals Projects
 ### Using python in a micro-framework
 
 #### In this section we covered how python can be used to create full-scale web applications with the help of the Flask.
